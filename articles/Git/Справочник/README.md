@@ -94,4 +94,4 @@
 **`git pull`** &ndash; Получить последние изменения из репозитория и объединить
 
 * * *
-&copy; v.o.krasovsky, 2015 
+&copy; <v.o.krasovsky@gmail.com>, 2015 
