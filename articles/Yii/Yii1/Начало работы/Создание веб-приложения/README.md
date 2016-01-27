@@ -3,8 +3,8 @@
 ## Создание веб-приложения в Yii
 
 ### Содержание:
-1. [Загрузка/Установка Yii](#user-content-1-Загрузка/Установка-Yii)
-2. [Новое приложение (сайт)](#user-content-2-Новое-приложение-(сайт))
+1. [Загрузка/Установка Yii](#user-content-1-ЗагрузкаУстановка-yii)
+2. [Новое приложение (сайт)](#user-content-2-Новое-приложение-сайт)
 3. [Структура приложения](#user-content-3-Структура-приложения)
 4. [Базовая конфигурация](#user-content-4-Базовая-конфигурация)
 5. [Ссылки](#user-content-Ссылки)
@@ -83,7 +83,6 @@ $config=dirname(__FILE__).'/../protected/config/main.php';
 ### Ссылки
 
 1. [Beginning Yii [Video] - Chris Backhouse](https://www.packtpub.com/web-development/beginning-yii-video)
-2. [Yii: Выводим модальное окно (быстрая форма обратной связи) на CJuiDialog](http://loco.ru/materials/321-yii-cjuidialog-dlya-sozdaniya-modalnyh-okon)
 
 * * *
 &copy; <v.o.krasovsky@gmail.com>, 2016
