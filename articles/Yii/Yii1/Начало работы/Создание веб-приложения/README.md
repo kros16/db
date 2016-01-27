@@ -2,6 +2,13 @@
 
 ## Создание веб-приложения в Yii
 
+### Содержание:
+1. [Загрузка/Установка Yii](#user-content-Загрузка/Установка-Yii)
+2. [Новое приложение (сайт)](#user-content-Новое-приложение-(сайт))
+3. [Структура приложения](#user-content-Структура-приложения)
+4. [Базовая конфигурация](#user-content-Базовая-конфигурация)
+5. [Ссылки](#user-content-Ссылки)
+
 #### 1. Загрузка/Установка Yii
 
 * Переходим на сайт фреймворка - [yiiframework.com](http://www.yiiframework.com), загружаем архив с Yii.
@@ -79,4 +86,4 @@ $config=dirname(__FILE__).'/../protected/config/main.php';
 2. [Yii: Выводим модальное окно (быстрая форма обратной связи) на CJuiDialog](http://loco.ru/materials/321-yii-cjuidialog-dlya-sozdaniya-modalnyh-okon)
 
 * * *
-&copy; <v.o.krasovsky@gmail.com>, 2015
+&copy; <v.o.krasovsky@gmail.com>, 2016
